@@ -4,13 +4,11 @@ Create CRUD application using react hooks and FireBase.
 
 ## screenshot
 
-![](image/README/1646009236351.png)
+![img](image/README/1646009236351.png)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
-
-### You want to run this app:
+### **You want to run this app:**
 
 **Step 1:** npm i react
 
@@ -22,3 +20,7 @@ In the project directory, you can run:
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+---
+
+**You can see that app at myHeruko link:** https://crud-databasefirebaseapp.herokuapp.com/
